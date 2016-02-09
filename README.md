@@ -1,0 +1,2 @@
+# testGitBash1
+firstUseTrial
