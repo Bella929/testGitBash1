@@ -1,2 +1,2 @@
 # testGitBash1
-firstUseTrial
+I want to make money
